@@ -1,1 +1,8 @@
-/sem/1/udpipe-1.2.0-bin/*
+/udpipe-1.2.0-bin/*
+sem/3/.ipynb_checkpoints/*
+sem/1/.ipynb_checkpoints/*
+sem/3/196/*
+sem/3/all.a010.p10.d300.w5.m100.nonorm.slim.joblib
+russian-syntagrus-ud-2.4-190531.udpipe
+/.idea/*
+sem/1/russian-syntagrus-ud-2.4-190531.udpipe
